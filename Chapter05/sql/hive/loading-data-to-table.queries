@@ -1,0 +1,10 @@
+// for file available on local system
+Hadoop fs -copyFromLocal product_2018.tsv /user/packt/product
+// for file available on hdfs
+hadoop fs -cp /user/packt/product_2018.tsv /user/packt/product
+
+
+LOAD DATA LOCAL INPATH '/home/packt/product_2018.tsv' OVERWRITE INTO TABLE
+product;
+
+msck repair table product;
