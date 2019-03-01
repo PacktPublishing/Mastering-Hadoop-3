@@ -1,5 +1,5 @@
 # Mastering Hadoop 3
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-hadoop-3?utm_source=github&utm_medium=repository&utm_campaign=9781788620444"><img src="https://www.packtpub.com/sites/default/files/B09151_MockupCover.png" alt="
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-hadoop-3?utm_source=github&utm_medium=repository&utm_campaign=9781788620444"><img src="https://www.packtpub.com/sites/default/files/B09151.png" alt="
 Mastering Hadoop 3" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Hadoop 3](https://www.packtpub.com/big-data-and-business-intelligence/mastering-hadoop-3?utm_source=github&utm_medium=repository&utm_campaign=9781788620444), published by Packt.
