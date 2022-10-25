@@ -72,3 +72,7 @@ is a technical architect at DataMetica Solution Pvt. Ltd. He has approximately 1
 * [Building Data Streaming Applications with Apache Kafka](https://www.packtpub.com/big-data-and-business-intelligence/building-data-streaming-applications-apache-kafka?utm_source=github&utm_medium=repository&utm_campaign=9781787283985)
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788620444">https://packt.link/free-ebook/9781788620444 </a> </p>
